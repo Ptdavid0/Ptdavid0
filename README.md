@@ -30,6 +30,16 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=rounded&logo=git&logoColor=%23ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-%23F05032?style=rounded&logo=jira&logoColor=%23ffffff&color=0052CC)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=rounded&logo=visual-studio-code)
+![Notion](https://img.shields.io/badge/-Notion-%23007ACC?style=rounded&logo=notion&color=000000)
+
+## Learning
+
+![Python](https://img.shields.io/badge/-Python-%23E44D27?style=rounded&logo=python&logoColor=ffffff&color=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-%23E44D27?style=rounded&logo=pandas&logoColor=ffffff&color=150458)
+
+![Jest](https://img.shields.io/badge/-Jest-%23E44D27?style=rounded&logo=jest&logoColor=ffffff&color=C21325)
+![Docker](https://img.shields.io/badge/-Docker-%23E44D27?style=rounded&logo=docker&logoColor=ffffff&color=2496ED)
+
 
 ## Stats
 

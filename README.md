@@ -4,9 +4,9 @@
 
 :rocket: Front-End Developer, currently working at [Framework](https://frwk.com.br/).
 
-:earth_americas: I live in Brazil and speak: Portuguese(Fluent), English(Advanced) and Spanish(Basic).
+:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced) and Spanish (Basic).
 
-:computer: ReactJS and Typescript are my main working technologies.
+:computer: Javascript, Typescript and ReactJS are my main working technologies.
 
 :star: I love learning and sharing knowlegde about coding and science.
 

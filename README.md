@@ -8,7 +8,7 @@
 
 :computer: Javascript, Typescript and ReactJS are my main working technologies.
 
-:star: I love learning and sharing knowlegde about coding and science.
+:star: I love learning and sharing knowlegde about coding, science and psychology.
 
 ## Contact Me
 

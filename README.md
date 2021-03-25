@@ -30,7 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=rounded&logo=git&logoColor=%23ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-%23F05032?style=rounded&logo=jira&logoColor=%23ffffff&color=0052CC)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=rounded&logo=visual-studio-code)
-![Notion](https://img.shields.io/badge/-Notion-%23007ACC?style=rounded&logo=notion&color=000000)
 
 ## Learning
 

@@ -40,7 +40,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-%23E44D27?style=rounded&logo=docker&logoColor=ffffff&color=2496ED)
 
 
-## Stats
+## Statistics
 
 [![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=Ptdavid0&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Ptdavid0/github-readme-stats)
 

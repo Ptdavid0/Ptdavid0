@@ -8,7 +8,7 @@
 
 :computer: Javascript, Typescript and ReactJS are my main working technologies.
 
-:hourglass: About 2 years of experience in Front-End development.
+:hourglass:  About 2 years of experience in Front-End development.
 
 :star: I love learning and sharing knowlegde about coding, science and psychology.
 

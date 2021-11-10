@@ -12,6 +12,8 @@
 
 :clock2: About 2 years of experience in Front-End development.
 
+:books: Finishing a bachelor's degree in Computer Science
+
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23E44D27?style=rounded&logo=linkedin&logoColor=ffffff&color=0077B5)](https://www.linkedin.com/in/pedro-ant%C3%B4nio-david-914aa1129/)

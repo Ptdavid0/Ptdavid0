@@ -39,8 +39,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?style=rounded&logo=python&logoColor=ffffff&color=3776AB)
 ![Jest](https://img.shields.io/badge/-Jest-%23E44D27?style=rounded&logo=jest&logoColor=ffffff&color=C21325)
-![Docker](https://img.shields.io/badge/-Docker-%23E44D27?style=rounded&logo=docker&logoColor=ffffff&color=2496ED)
-
 
 ## Statistics
 

@@ -2,7 +2,7 @@
 
 # Hello, I'm Pedro Pereira
 
-:rocket: Front-End Developer, currently working at [Framework](https://frwk.com.br/).
+:rocket: Front-End Developer, currently working at [Soon](https://soon.com.vc/).
 
 :earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and German (Learning).
 

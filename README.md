@@ -12,7 +12,7 @@
 
 :clock2: About 2 years of experience in Front-End development.
 
-:books: Finishing a bachelor's degree in Computer Science
+:books: Bachelor degree in Computer Science
 
 ## Contact Me
 

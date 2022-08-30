@@ -4,13 +4,13 @@
 
 :rocket: Front-End Developer, currently working at [Soon](https://soon.com.vc/).
 
-:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and German (Learning).
+:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and Japanese (Learning).
 
 :computer: Javascript, Typescript and ReactJS are my main working technologies.
 
 :star: I love learning and sharing knowlegde about coding, science and psychology.
 
-:clock2: About 2 years of experience in Front-End development.
+:clock2: More then 2 years of experience in Front-End development.
 
 :books: Bachelor degree in Computer Science
 

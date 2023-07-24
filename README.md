@@ -50,10 +50,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Statistics
-
-[![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=Ptdavid0&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Ptdavid0/github-readme-stats)
-
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptdavid0&theme=dracula)](https://github.com/Ptdavid0/github-readme-stats)

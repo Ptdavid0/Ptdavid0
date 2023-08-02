@@ -2,11 +2,11 @@
 
 # Hello, I'm Pedro Pereira
 
-:rocket: Front-End Developer, currently working at [Soon](https://soon.com.vc/).
+:rocket: Frontend Engineer, currently working at [Soon](https://soon.com.vc/).
 
 :earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and Japanese (Learning).
 
-:computer: Javascript, Typescript and ReactJS are my main working technologies.
+:computer: Javascript, Typescript, ReactJS and React Native are my main working technologies.
 
 :star: I love learning and sharing knowlegde about coding, science and psychology.
 

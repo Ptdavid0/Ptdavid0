@@ -2,7 +2,7 @@
 
 # Hello, I'm Pedro Pereira
 
-:rocket: Frontend Engineer, currently working at [Soon](https://soon.com.vc/).
+:rocket: Frontend Engineer, currently working at [Aiqfome](https://aiqfome.com/).
 
 :earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and Japanese (Learning).
 

@@ -10,7 +10,7 @@
 
 :star: I love learning and sharing knowlegde about coding, science and psychology.
 
-:clock2: 4 years of experience in Front-End development.
+:clock2: 4 years of experience as a Software Engineer.
 
 :books: Bachelor degree in Computer Science
 

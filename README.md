@@ -4,7 +4,7 @@
 
 :rocket: Frontend Engineer, currently working at [Aiqfome](https://aiqfome.com/).
 
-:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Advanced), Spanish (Basic) and Japanese (Learning).
+:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Fluent), Spanish (Basic) and Japanese (Learning).
 
 :computer: Javascript, Typescript, ReactJS and React Native are my main working technologies.
 

@@ -2,15 +2,15 @@
 
 # Hello, I'm Pedro Pereira
 
-:rocket: Frontend Engineer, currently working at [Aiqfome](https://www.instagram.com/aiqfome/).
+:rocket: Frontend Engineer, currently working at [Aubay](https://www.aubay.pt/).
 
-:earth_americas: I live in Brazil and speak: Portuguese (Native), English (Fluent), Spanish (Basic) and Japanese (Learning).
+:earth_americas: I live in Portugal and speak: Portuguese (Native), English (Fluent), Spanish (Basic) and Japanese (Learning).
 
 :computer: Javascript, Typescript, ReactJS and React Native are my main working technologies.
 
 :star: I love learning and sharing knowlegde about coding, science and psychology.
 
-:clock2: 4 years of experience as a Software Engineer.
+:clock2: 4+ years of experience as a Software Engineer.
 
 :books: Bachelor degree in Computer Science
 
